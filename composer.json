@@ -22,7 +22,13 @@
             "homepage": "http://kochabo.com"
         }
     ],
+    "support": {
+        "email": "packages@subscribo.io",
+        "issues": "https://github.com/Subscribo/psr-http-tools/issues",
+        "source": "https://github.com/Subscribo/psr-http-tools"
+    },
     "require": {
+        "php": ">=5.4",
         "psr/http-message": "^0.10.1",
         "phly/http": "^0.12"
     },
