@@ -5,10 +5,10 @@
     "keywords": [
         "PSR-7",
         "factory",
-        "request",
-        "uri",
         "parser",
-        "response"
+        "request",
+        "response",
+        "uri"
     ],
     "homepage": "http://www.subscribo.io",
     "authors": [
@@ -42,7 +42,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "0.1.x-dev"
+            "dev-master": "0.2.x-dev"
         }
     }
 }
