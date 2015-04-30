@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Subscribo/psr-http-tools.svg?branch=master)](https://travis-ci.org/Subscribo/psr-http-tools)
+
 # Package Subscribo PsrHttpTools
 ## providing following tools to be used with PSR-7 compliant classes:
 - Request Factory
@@ -38,4 +40,4 @@ For contribution guidelines see [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## License
 
-Package Subscribo PsrHttpTools is published under [MIT License](opensource.org/licenses/MIT)
+Package Subscribo PsrHttpTools is published under [MIT License](http://opensource.org/licenses/MIT)
